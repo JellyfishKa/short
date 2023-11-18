@@ -73,7 +73,7 @@ h1 {
 
 .header {
     min-height: 768px;
-    background-image: url(../img/first-screen-bg.png);
+    background-image: url(images/back1.jpg);
     background-size: cover;
 }
 .header__title {
@@ -146,7 +146,7 @@ h1 {
 }
 
 .clubs {
-    background-image: url(../img/clubs.png);
+    background-image: url(images/back2.jpg);
     min-height: 768px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -236,8 +236,9 @@ h1 {
 }
 
 .system {
-    background-image: url(../img/system-bg.svg);
+    background-image: url(images/back3.jpg);
     min-height: 768px;
+    background-size: cover;
 }
 
 .system-info-text {
